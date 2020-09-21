@@ -5,3 +5,5 @@ class CashRegister
     @cash_register
     @cash_register_with_discount
   end
+  
+end
